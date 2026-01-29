@@ -53,7 +53,7 @@
 ---
 ### ОТВЕТ НА ЗАДАНИЕ 2.
 
-### 2.1 Создаю сринт на bash с названием `backup_home.sh` в папке /usr/local/bin/.
+### 2.1 Создаю срипт на bash с названием `backup_home.sh` в папке /usr/local/bin/.
 
 ```
 #!/bin/bash
