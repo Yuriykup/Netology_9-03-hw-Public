@@ -33,13 +33,13 @@
 
 ### Скриншоты работы команды.
 
-![Скриншот-1](https://github.com/Yuriykup/Netology_9-03-hw/blob/main/img/img1.png)
-![Скриншот-2](https://github.com/Yuriykup/Netology_9-03-hw/blob/main/img/img2.png)
+![Скриншот-1](https://github.com/Yuriykup/Netology_9-03-hw-Public/blob/main/img/img1.png)
+![Скриншот-2](https://github.com/Yuriykup/Netology_9-03-hw-Public/blob/main/img/img2.png)
 
 
 
 ### Скриншот созданой папки с бэкапом.
-![Скриншот-2](https://github.com/Yuriykup/Netology_9-03-hw/blob/main/img/img3.png)
+![Скриншот-2](https://github.com/Yuriykup/Netology_9-03-hw-Public/blob/main/img/img3.png)
 ---
 
 ### Задание 2
