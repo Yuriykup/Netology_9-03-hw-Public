@@ -69,11 +69,11 @@ TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
 # Команда rsync
 rsync -a --delete --checksum --exclude=".*" "$SOURCE_DIR" "$BACKUP_DIR" >> "$LOG_FILE" 2>&1
 
-# Проверка результата
 if [ $? -eq 0 ]; then
-    echo "[$TIMESTAMP] SUCCESS: Backup completed successfully." >> "$LOG_FILE"
+    echo "[$TIMESTAMP] SUCCESS: БЕКАП ВЫПОЛНЕН УДАЧНО!" >> "$LOG_FILE"
 else
-    echo "[$TIMESTAMP] ERROR: Backup failed." >> "$LOG_FILE"
+    echo "[$TIMESTAMP] ERROR: БЕКАП ВЫПОЛНЕН НЕ УДАЧНО!!!" >> "$LOG_FILE"
+fi
 ```
 #### Пояснения к скрипту для rsync:
 
